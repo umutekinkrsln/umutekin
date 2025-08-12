@@ -7,7 +7,7 @@
 ---
 
 ### 🛠 Technologies I Use
-<img src="https://skillicons.dev/icons?i=java,spring,cs,asp.net,html,css,javascript,react,flutter,postgresql,git,linux" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,.net,html,css,javascript,react,flutter,postgresql,git,linux" />
 
 ---
 
