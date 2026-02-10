@@ -2,12 +2,11 @@
 
 - 💻 In software development, I especially focus on **Java**,**Spring Boot** and also **C#**,**Asp.net**
 - 🌐 I also develop projects on backend and frontend with **React** and also **Flutter**
-- 🎯 Objective: To do my work in the best way possible
-- 🥋 I'm a professional Kickboxing, Muay Thai athlete
+- 🥋 I'm a professional Kickboxing athlete
 ---
 
 ### 🛠 Technologies I Use
-<img src="https://skillicons.dev/icons?i=java,spring,cs,.net,html,css,javascript,react,flutter,postgresql,git,linux" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,.net,html,css,javascript,react,flutter,python,postgresql,git,linux" />
 
 ---
 
